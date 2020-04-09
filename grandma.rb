@@ -6,6 +6,7 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
